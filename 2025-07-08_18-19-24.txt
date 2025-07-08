@@ -1,0 +1,8 @@
+Título: Primeiro texto após a atualização do script
+Data: 08/07/2025
+Hora: 18:19
+--------------------
+Aqui eu gistaria de catalogar a nova atualização do meu diario feito em bash dentro terminal ubuntu
+
+
+ls

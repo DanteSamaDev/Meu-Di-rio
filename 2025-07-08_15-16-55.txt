@@ -1,0 +1,1 @@
+Consegui criar um script dentro do cmd ubuntu, gostaria de deixar esse momento salvo para a posterioridade, criei meu primeiro diario usando linux
